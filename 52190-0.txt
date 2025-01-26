@@ -1,6 +1,8 @@
 *** START OF THE PROJECT GUTENBERG EBOOK 52190 ***
 
 
+
+
 ECCE HOMO
 
 (_NIETZSCHES AUTOBIOGRAPHY_)
@@ -42,29 +44,31 @@ EDINBURGH: AND LONDON
 
 
 
+
 CONTENTS
+
 
 TRANSLATOR'S INTRODUCTION
 AUTHOR'S PREFACE
 WHY I AM SO WISE
 WHY I AM SO CLEVER
 WHY I WRITE SUCH EXCELLENT BOOKS
-The Birth of Tragedy
-Thoughts out of Season
-Human, All-too-Human
-The Dawn of Day
-The Joyful Wisdom
-Thus spake Zarathustra
-Beyond Good and Evil
-The Genealogy of Morals
-The Twilight of the Idols
-The Case of Wagner
+    The Birth of Tragedy
+    Thoughts out of Season
+    Human, All-too-Human
+    The Dawn of Day
+    The Joyful Wisdom
+    Thus spake Zarathustra
+    Beyond Good and Evil
+    The Genealogy of Morals
+    The Twilight of the Idols
+    The Case of Wagner
 WHY I AM A FATALITY
 EDITORIAL NOTE TO POETRY
 POETRY--
-Songs, Epigrams, etc.
-Dionysus-Dithyrambs
-Fragments of Dionysus-Dithyrambs
+    Songs, Epigrams, etc.
+    Dionysus-Dithyrambs
+    Fragments of Dionysus-Dithyrambs
 HYMN TO LIFE, COMPOSED BY F. NIETZSCHE
 
 
